@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate and curious learner who enjoys building, 
 
 ## 🏆 Achievements
 
-- ✅ Completed **100 Days of LeetCode Challenge**
+- ✅ Completed **100 Days of LeetCode streak**
 - 🎯 Actively building personal and collaborative projects
 
 ---
